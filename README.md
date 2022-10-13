@@ -6,4 +6,4 @@ Optimización:
 
 RenderMeshInstanced - Waves
 
-![RenderMeshWaves](RenderMeshInstanced_Waves.GIF)
+![RenderMeshWaves](RenderMeshInstanced_Waves.gif)
